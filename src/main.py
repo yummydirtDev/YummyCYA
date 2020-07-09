@@ -1,1 +1,2 @@
 print("As you look out on the horizon you see a boat. The boat is grey and black. The boat is about 80 feet long with a tall bridge and a mean look to it.")
+print("You are on the run and you can't turn back so you dive in the water and start swimming to the boat")
