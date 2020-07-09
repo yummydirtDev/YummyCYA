@@ -1,0 +1,1 @@
+print("As you look out on the horizon you see a boat. The boat is grey and black. The boat is about 80 feet long with a tall bridge and mean look to it.")
