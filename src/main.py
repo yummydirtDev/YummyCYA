@@ -1,1 +1,1 @@
-print("As you look out on the horizon you see a boat. The boat is grey and black. The boat is about 80 feet long with a tall bridge and mean look to it.")
+print("As you look out on the horizon you see a boat. The boat is grey and black. The boat is about 80 feet long with a tall bridge and mean look to it. You sail your ship closer and see that there are 2 people sitting at a table on the back of the boat, they are typing madly into there computers. Do you shout to them, or do you hop on the boat? ")
